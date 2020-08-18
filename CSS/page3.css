@@ -1,0 +1,17 @@
+body {
+    color: white;
+    font-family: Raleway;
+}
+
+.list-group-item {
+    background-color: black
+}
+
+.card {
+    background-color: black !important;
+    color: white;
+}
+
+b{
+    font-weight: 800;
+}
